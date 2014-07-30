@@ -116,7 +116,7 @@ Product Specifications
     * VIA VT2021 High Definition Audio Codec
 
   * Onboard Super I/0
-    
+
     * Fintek F81801U-I Super I/O controller
 
 * **Onboard I/O Connectors**
@@ -175,3 +175,78 @@ Product Specifications
   * FCC
   * BSMI
   * RoHS
+
+Layout Diagram
+--------------
+
+.. _figure-layout-top:
+.. figure:: images/layout_top.*
+   :align: center
+   :alt: Layout diagram of the EPIA-P910 mainboard, top view
+
+   Layout diagram of the EPIA-P910 mainboard, top view
+
+.. _figure-layout-bottom:
+.. figure:: images/layout_bottom.*
+   :align: center
+   :alt: Layout diagram of the EPIA-P910 mainboard, bottom view
+
+   Layout diagram of the EPIA-P910 mainboard, bottom view
+
+Layout diagram description table of the EPIA-P910 mainboard:
+
+===== =============================
+Item  Description
+===== =============================
+1     JM1: Clear CMOS jumper
+2     CN3: High Speed Extension Slot
+3     SATA connector 2
+4     PWR2: SATA power connector
+5     SATA connector 1
+6     CN2: Audio+USB 2.0+Front Panel combination pin header
+7     CN1: KB/MS/LPC/GPIO/SMBus combination pin header
+8     LVDS1: LVDS connector
+9     JM3: Panel power selector
+10    JM2: Backlight power selector
+11    FAN1: System/CPU fan
+12    VIA QuadCore
+13    VX11H chipset
+14    PWR1: DC-in power connector
+15    SODIMM1: DDR3 SODIMM slot
+16    J1: SPI connector
+17    BAT1: CMOS battery connector
+===== =============================
+
+Product Dimensions
+------------------
+
+.. _figure-mounting1:
+.. figure:: images/mounting1.*
+   :align: center
+   :alt: Mounting holes and dimensions of the EPIA-P910
+
+   Mounting holes and dimensions of the EPIA-P910
+
+.. _figure-mounting2:
+.. figure:: images/mounting2.*
+   :align: center
+   :alt: Mounting holes and dimensions of the EPIA-P910
+
+   Mounting holes and dimensions of the EPIA-P910
+
+Height Distribution
+-------------------
+
+.. _figure-height1:
+.. figure:: images/height1.*
+   :align: center
+   :alt: Height distribution of the EPIA-P910 mainboard
+
+   Height distribution of the EPIA-P910 mainboard
+
+.. _figure-height2:
+.. figure:: images/height2.*
+   :align: center
+   :alt: Height distribution of the EPIA-P910 mainboard
+
+   Height distribution of the EPIA-P910 mainboard
