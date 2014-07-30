@@ -168,3 +168,10 @@ Product Specifications
 * **Form Factor**
 
   * Pico-ITX: 10 cm x 7.2 cm (12-layers)
+
+* **Compliance**
+
+  * CE
+  * FCC
+  * BSMI
+  * RoHS
