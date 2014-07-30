@@ -148,9 +148,9 @@ connecting to analog displays. The pinout of the VGA port is shown below.
 
 VGA port pinout:
 
-==== ========== ==== ========== 
+==== ========== ==== ==========
 Pin  Signal     Pin  Signal
-==== ========== ==== ========== 
+==== ========== ==== ==========
 1    VGA-R      9    +5VCRT
 2    VGA-G      10   Ground
 3    VGA-B      11   NC
@@ -159,4 +159,4 @@ Pin  Signal     Pin  Signal
 6    Ground     14   VGA_VS
 7    Ground     15   VGA-SPCLK
 8    Ground
-==== ========== ==== ========== 
+==== ========== ==== ==========
