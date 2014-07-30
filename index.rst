@@ -100,6 +100,7 @@ Table of Contents
    :numbered:
 
    overview.rst
+   io_interface.rst
 
 Indices and tables
 ==================
