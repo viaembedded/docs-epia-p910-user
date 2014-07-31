@@ -104,6 +104,7 @@ Table of Contents
    jumpers.rst
    expansion.rst
    hardware.rst
+   bios.rst
 
 Indices and tables
 ==================
