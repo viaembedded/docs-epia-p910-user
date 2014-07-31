@@ -105,6 +105,7 @@ Table of Contents
    expansion.rst
    hardware.rst
    bios.rst
+   drivers.rst
 
 Indices and tables
 ==================
