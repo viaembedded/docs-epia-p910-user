@@ -103,6 +103,7 @@ Table of Contents
    io_interface.rst
    jumpers.rst
    expansion.rst
+   hardware.rst
 
 Indices and tables
 ==================
