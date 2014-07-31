@@ -106,6 +106,8 @@ Table of Contents
    hardware.rst
    bios.rst
    drivers.rst
+   powerconsumption.rst
+   vendors.rst
 
 Indices and tables
 ==================
